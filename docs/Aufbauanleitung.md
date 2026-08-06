@@ -202,4 +202,4 @@ LEDPong ist nun einsatzbereit.
 
 Viel Spaß beim Spielen!
 
-![LEDPong](images/ledpong-white-fertig.png)
+![LEDPong](/images/ledpong-white-fertig.png)
