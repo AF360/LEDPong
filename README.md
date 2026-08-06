@@ -33,7 +33,7 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 - **[Firmware](firmware/README.md)** – Arduino-Sketch und benötigte Bibliotheken
 - **[Audiodateien](audio/README.md)** – Sprachansagen und Soundeffekte
 - **[Gehäuse und 3D-Druck](gehäuse/README.md)** – Hinweise zum Kabelkanal und zu den STL-Dateien
-- **[Release v1.0.0](https://github.com/AF360/LEDPong/releases/tag/v1.0.0)** – erster stabiler und vollständig dokumentierter Veröffentlichungsstand
+- **[Release V1.0.0](https://github.com/AF360/LEDPong/releases/tag/V1.0.0)** – erster stabiler und vollständig dokumentierter Veröffentlichungsstand
 
 ## Lizenz und Danksagungen
 
