@@ -201,3 +201,5 @@ Anschließend den Deckel auf den Kabelkanal setzen und die zweite Endkappe monti
 LEDPong ist nun einsatzbereit.
 
 Viel Spaß beim Spielen!
+
+![LEDPong](images/ledpong-white-fertig.png)
