@@ -6,7 +6,7 @@ Alle benötigten Komponenten und Werkzeuge gemäß Stückliste bereitlegen und d
 
 ## 2. Arduino Nano vorbereiten
 
-Die Arduino IDE installieren und starten. Anschließend den Sketch `LEDPong_v3.0.ino` aus dem Verzeichnis `firmware` dieses Repositorys öffnen.
+Die Arduino IDE installieren und starten. Anschließend den Sketch `LEDPong_v3.1.ino` aus dem Verzeichnis `firmware` dieses Repositorys öffnen.
 
 Den Arduino Nano per USB mit dem Computer verbinden.
 
