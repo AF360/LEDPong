@@ -9,11 +9,11 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 
 ## Spielmodi
 
-1. **Anfänger-Modus**
-2. **Profi-Modus**
-3. **Insane-Modus**
-4. **Rallye-Modus** nach jeweils drei erfolgreichen Rückschlägen werden beide Rückschlagzonen kleiner
-5. **Training-Modus** ein Spieler tritt auf der grünen Seite gegen den Arduino an
+1. **Anfänger-Modus** (große Rückschlagzonen, niedrige Geschwindigkeit und Beschleunigung)
+2. **Profi-Modus** (kleinere Rückschlagzonen, höhere Geschwindigkeit und Beschleunigung)
+3. **Insane-Modus** (stark verkleinerte Rückschlagzonen und höhere Beschleunigug)
+4. **Rallye-Modus** (nach jeweils drei erfolgreichen Rückschlägen werden beide Rückschlagzonen verkleinert)
+5. **Training-Modus** (ein Spieler tritt auf der grünen Seite gegen den Arduino an)
 
 ## Besonderheiten
 
@@ -22,7 +22,6 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 - 🌈 144 adressierbare WS2812B-LEDs
 - 🎚 Lautstärkeregelung per Potentiometer
 - 🎛 5-fach-Moduswahlschalter
-- 🤖 Automatischer Demo-Modus mit Punkte- und Siegeranzeige
 - 🚨 Scanner-Modus mit Licht- und Soundeffekt
 - 🖨 Druckfertige 3D-Modelle für Gehäuse- und Bedienelemente
 - 🔧 Vollständige Aufbau-, Verdrahtungs- und Bedienungsdokumentation
