@@ -14,8 +14,8 @@
 | D7 | Drehschalter Position 1 → GND über COM | Modus Normal, aktiv LOW |
 | D8 | Drehschalter Position 2 → GND über COM | Modus Pro, aktiv LOW |
 | D9 | Drehschalter Position 3 → GND über COM | Modus Insane, aktiv LOW |
-| D10 | Drehschalter Position 4 → GND über COM | Modus Demo, aktiv LOW |
-| D11 | Drehschalter Position 5 → GND über COM | Modus Larson-Scanner, aktiv LOW |
+| D10 | Drehschalter Position 4 → GND über COM | Modus Rallye, aktiv LOW |
+| D11 | Drehschalter Position 5 → GND über COM | Modus Training, aktiv LOW |
 | A0 | unbeschaltet | Rauschquelle für `randomSeed(analogRead(0))` |
 | A1 | Schleifer des 10-kΩ-Potis | Lautstärke; GND = Minimum, +5V = Maximum |
 
