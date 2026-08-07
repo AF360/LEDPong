@@ -705,7 +705,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="149" value="D10  →  4 · DEMO" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#2563eb;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="149" value="D10  →  4 · RALLYE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#2563eb;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="876" width="208" height="22" as="geometry" />
         </mxCell>
         <mxCell id="150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2563eb;strokeWidth=2.7;endArrow=none;dashed=0;" edge="1" parent="1">
@@ -718,7 +718,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="151" value="D11  →  5 · LARSON-SCANNER" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#2563eb;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="151" value="D11  →  5 · TRAINING" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#2563eb;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="916" width="208" height="22" as="geometry" />
         </mxCell>
         <mxCell id="152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2563eb;strokeWidth=2;endArrow=none;dashed=0;" edge="1" parent="1">
