@@ -12,8 +12,8 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 1. **Anfänger-Modus**
 2. **Profi-Modus**
 3. **Insane-Modus**
-4. **Demo-Modus** – der Arduino übernimmt beide Spieler
-5. **Scanner-Modus** – Larson-Scanner als Showeffekt
+4. **Rallye-Modus** nach jeweils drei erfolgreichen Rückschlägen werden beide Rückschlagzonen kleiner
+5. **Training-Modus** ein Spieler tritt auf der grünen Seite gegen den Arduino an
 
 ## Besonderheiten
 
