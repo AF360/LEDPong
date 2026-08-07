@@ -9,8 +9,8 @@ Mit dem 5-fach-Moduswahlschalter wird der gewünschte Spielmodus ausgewählt:
 1. Anfänger-Modus
 2. Profi-Modus
 3. Insane-Modus
-4. Demo-Modus
-5. Scanner-Modus – Larson-Scanner als kleiner Gag
+4. Rallye-Modus
+5. Training-Modus 
 
 Die Helligkeit der LEDs lässt sich durch mehrfaches Drücken der roten Taste in fünf Stufen durchschalten.
 
@@ -40,20 +40,18 @@ Wird zu früh oder zu spät gedrückt, geht der Ball verloren. Der Gegenspieler 
 
 Das Match endet, sobald ein Spieler fünf Punkte erreicht hat.
 
+## Rallye-Modus
+
+Der Rallye-Modus beginnt mit den Spieleinstellungen und der Rückschlagzonengröße des Profi-Modus. Lediglich die maximal mögliche Ballgeschwindigkeit entspricht dem Insane-Modus. Nach jeweils drei erfolgreichen Rückschlägen werden beide Rückschlagzonen gleichzeitig kleiner. Die wegfallenden LEDs blinken zweimal rot, bevor das Spiel mit den kleineren Zonen weiterläuft. Nach jedem Punkt werden die Rückschlagzonen für die nächste Rallye auf ihre volle Größe zurückgesetzt.
+
+## Training-Modus
+
+Im Training-Modus spielt eine Person auf der grünen Seite gegen den Arduino auf der roten Seite. Die rote Taste behält vor dem Spiel ihre normale Funktion zur Helligkeitseinstellung; die grüne Taste startet das Training und dient anschließend als Spielertaste. Während des Matches wird die rote Spielertaste ignoriert.
+
+Der Training-Modus verwendet die vollständigen Spieleinstellungen des Profi-Modus. Beim Aufrufen des Training-Modus wird der erste Aufschlag zufällig bestimmt. Beginnt Grün, wartet LEDPong auf den Aufschlag mit der grünen Taste. Beginnt Rot, schlägt der Arduino nach einer kurzen sichtbaren Pause automatisch auf. Nach einem Punkt schlägt wie in den anderen Spielmodi der Spieler auf, der den Punkt erzielt hat. Nach einem abgeschlossenen Match beginnt beim nächsten Start der vorherige Verlierer.
+
+Der Arduino wählt seine Rückschlagposition innerhalb der roten Rückschlagzone zufällig. Durchschnittlich ungefähr jeden zehnten Rückschlag verfehlt er absichtlich, damit der menschliche Spieler Punkte erzielen kann. Das Match endet regulär bei fünf Punkten und verwendet die vorhandene Punkte- und Siegeranzeige.
+
 ## Lautstärke und Ton
 
 Die Lautstärke wird über das Potentiometer eingestellt. Mit dem Ein-/Ausschalter für den Lautsprecher kann die Tonausgabe vollständig stummgeschaltet werden.
-
-## Demo-Modus
-
-Im Demo-Modus übernimmt der Arduino beide Spieler und spielt selbstständig. Die Rückschlagpositionen innerhalb der Endzonen werden zufällig gewählt.
-
-Gelegentlich wird ein Ball absichtlich nicht zurückgeschlagen, damit auch die Punkteanzeige und die Siegeranimation vorgeführt werden. Nach dem Ende eines Matches beginnt automatisch eine neue Demonstration.
-
-## Scanner-Modus
-
-Im Scanner-Modus läuft ein rotes Licht mit Leuchtspur fortlaufend über den LED-Streifen hin und her. Gleichzeitig wird der passende Scanner-Sound abgespielt.
-
-Dieser Modus dient ausschließlich als Showeffekt und enthält kein Pong-Spiel.
-
-Demo- und Scanner-Modus können durch Drehen des Moduswahlschalters oder durch Drücken einer der beiden Spielertasten beendet werden.
