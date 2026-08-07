@@ -1,6 +1,6 @@
 /*
-  LEDPong v3.1
-  =============
+  LEDPong v1.1.0
+  ==============
 
   Ein modernes Pong-Spiel auf einem 1 m langen adressierbaren LED-Strip
   mit Arcade-Tastern, Sound, Sprachansagen und fünf Betriebsarten.
