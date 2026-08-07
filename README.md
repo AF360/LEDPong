@@ -21,8 +21,7 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 - 🔊 Sprachansagen und Soundeffekte über DFPlayer Mini
 - 🌈 144 adressierbare WS2812B-LEDs
 - 🎚 Lautstärkeregelung per Potentiometer
-- 🎛 5-fach-Moduswahlschalter
-- 🚨 Scanner-Modus mit Licht- und Soundeffekt
+- 🎛 5-fach-Moduswahlschalter zur Auswahl fünf unterschiedlicher Spielmodi
 - 🖨 Druckfertige 3D-Modelle für Gehäuse- und Bedienelemente
 - 🔧 Vollständige Aufbau-, Verdrahtungs- und Bedienungsdokumentation
 
