@@ -5,7 +5,7 @@
 LEDPong ist eine moderne Interpretation des klassischen Pong-Spiels.
 Gespielt wird nicht auf einem Bildschirm, sondern auf einem **1 m langen LED-Strip mit 144 adressierbaren WS2812B-LEDs**.
 
-Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arcade-Tastern im richtigen Moment zurückzuspielen. Mehrere Schwierigkeitsstufen, Sprachansagen, Soundeffekte, eine Lautstärkeregelung sowie ein Demo- und ein Scanner-Modus ergänzen das Spiel.
+Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arcade-Tastern im richtigen Moment zurückzuspielen. Mehrere Schwierigkeitsstufen und Spielmodi, Sprachansagen, Soundeffekte und eine Lautstärkeregelung ergänzen das Spiel.
 
 ## Spielmodi
 
