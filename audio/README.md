@@ -17,9 +17,8 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 020.mp3 | Modus Normal | "Du hast den Anfänger-Modus ausgewählt" |
 | 021.mp3 | Modus Pro | "Du hast den Profi-Modus ausgewählt" |
 | 022.mp3 | Modus Insane | "Du hast den Insane-Modus ausgewählt" |
-| 023.mp3 | Demo-Modus | "Du hast den Demo-Modus ausgewählt" |
-| 024.mp3 | Scanner-Modus | "Du hast den Scanner-Modus ausgewählt" |
-| 025.mp3 | Scanner-Geräusch als Loop | |
+| 023.mp3 | Demo-Modus | "Du hast den Rallye-Modus ausgewählt" |
+| 024.mp3 | Scanner-Modus | "Du hast den Training-Modus ausgewählt" |
 
 ## Ordnerstruktur auf der microSD-Karte
 Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD-Karte des DFPlayerMini.
@@ -37,5 +36,4 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 ├── 021.mp3
 ├── 022.mp3
 ├── 023.mp3
-├── 024.mp3
-└── 025.mp3
+└── 024.mp3
