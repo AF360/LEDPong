@@ -34,7 +34,7 @@ Der Arduino Nano ist damit für den Einbau vorbereitet.
 
 Die MicroSDHC-Karte über einen Kartenleser mit dem Computer verbinden und mit dem Dateisystem **FAT32** formatieren.
 
-Im Hauptverzeichnis der Karte einen Ordner mit dem Namen `01` anlegen. Anschließend die Audiodateien `001.mp3` bis `025.mp3` in diesen Ordner kopieren.
+Im Hauptverzeichnis der Karte einen Ordner mit dem Namen `01` anlegen. Anschließend die Audiodateien `001.mp3` bis `024.mp3` in diesen Ordner kopieren.
 
 Die Karte danach sicher auswerfen und in den DFPlayer Mini einsetzen.
 
