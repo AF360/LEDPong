@@ -33,7 +33,8 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
 
 ```text
-Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen als Datei 011.mp3 und 012.mp3 auf die Speicherkarte kopiert werden.
+Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen jeweils als Datei 011.mp3
+und 012.mp3 auf die Speicherkarte kopiert werden.
 Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden.
 ```
 
