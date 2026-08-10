@@ -38,4 +38,12 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 LEDPong wird unter der **GNU General Public License v3.0 oder später** veröffentlicht.
 Weitere Informationen zu den ursprünglichen Projekten und Mitwirkenden befinden sich in **[AUTHORS.md](AUTHORS.md)**.
 
+## Das fertige LEDPong
+![LEDPong1](/images/ledpong-gesamtansicht.jpg)
+
+![LEDPong2](/images/ledpong-spielperspektive.jpg)
+
+![LEDPong3](/images/ledpong-bedienelemente.jpg)
+
+
 ![LEDPong-Logo](images/ledponglogo.png)
