@@ -21,22 +21,6 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 023.mp3 | Rallye-Modus | "Du hast den Rallye-Modus ausgewählt" |
 | 024.mp3 | Training-Modus | "Du hast den Training-Modus ausgewählt" |
 
-
-## Alternative Hinweisdateien für andere Tastenfarben
-| Datei | Verwendung | gesprochener Text |
-|---|---|---|
-| 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
-| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen" |
-| 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen" |
-| 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
-| 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
-| 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
-
-## Verwendung der alternativen Farben
-Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen jeweils als Datei 011.mp3
-und 012.mp3 auf die Speicherkarte kopiert werden.
-Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden, für Details siehe Firmware-Readme.
-
 ## Ordnerstruktur auf der microSD-Karte
 Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD-Karte des DFPlayerMini.
 
@@ -55,3 +39,19 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 ├── 022.mp3
 ├── 023.mp3
 └── 024.mp3
+```
+
+## Alternative Hinweisdateien für andere Tastenfarben
+| Datei | Verwendung | gesprochener Text |
+|---|---|---|
+| 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
+| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen" |
+| 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen" |
+| 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
+| 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
+| 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
+
+## Verwendung der alternativen Farben
+Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen jeweils als Datei 011.mp3
+und 012.mp3 auf die Speicherkarte kopiert werden.
+Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden, für Details siehe Firmware-Readme.
