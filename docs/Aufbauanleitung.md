@@ -194,7 +194,7 @@ Das interne USB-Kabel mit dem USB-Anschluss des Arduino Nano verbinden und so ve
 
 Alle Leitungen geordnet im Kabelkanal verstauen. Darauf achten, dass keine Litzen in den Bereich der Deckelrastung gelangen.
 
-Anschließend den Deckel auf den Kabelkanal setzen und die zweite Endkappe montieren.
+Anschließend den Deckel auf den Kabelkanal setzen und die zweite Endkappe montieren. Für zusätzlichen Halt empfiehlt sich die Fixierung des Deckels auf jeder Seite durch ein- bis zweimalige Umwicklung mit farblich passendem Klebeband (ich habe hier weißes Isolierband verwendet).
 
 ## 14. Fertig
 
