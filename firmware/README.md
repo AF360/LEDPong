@@ -33,4 +33,4 @@ byte playerColor[] = {64, 128};
 
 Die Rückschlagzonen verwenden standardmäßig den Wert `160` (Blau). Dieser Farbwert sollte daher möglichst **nicht als Spielerfarbe** verwendet werden, damit Spieler- und Rückschlagzonen eindeutig unterscheidbar bleiben.
 
-Werden andere Tastenfarben verwendet, können zusätzlich die entsprechenden alternativen Sprachansagen aus dem Verzeichnis `audio/Alternative-Tastenfarben` verwendet werden.
+Werden andere Tastenfarben verwendet, können zusätzlich die entsprechenden alternativen Sprachansagen aus dem Verzeichnis `audio/alternative-Tastenfarben` verwendet werden.
