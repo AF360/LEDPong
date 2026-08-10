@@ -13,7 +13,7 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 004.mp3 | Aufschlag | |
 | 005.mp3 | Spiel gewonnen | |
 | 010.mp3 | Begrüßung | "Hallo. Willkommen zu Pong" |
-| 011.mp3 | Bedienhinweis | "Helligkeit mit roter Taste einstellen |
+| 011.mp3 | Bedienhinweis | "Helligkeit mit roter Taste einstellen" |
 | 012.mp3 | Bedienhinweis | "Spiel mit grüner Taste starten" |
 | 020.mp3 | Modus Normal | "Du hast den Anfänger-Modus ausgewählt" |
 | 021.mp3 | Modus Pro | "Du hast den Profi-Modus ausgewählt" |
@@ -25,9 +25,9 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 ## Alternative Tastenfarb-Dateien
 | Datei | Verwendung | gesprochener Text |
 |---|---|---|
-| 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen |
-| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen |
-| 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen |
+| 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
+| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen" |
+| 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen" |
 | 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
 | 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
 | 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
