@@ -72,4 +72,3 @@ Dazu:
 
 Für den rechten Spieler wird im Beispiel bewusst der Farbwert `128` (Hellblau/Türkis) verwendet. Dadurch bleibt die Spielerfarbe deutlich von den blauen Rückschlagzonen mit dem Farbwert `160` unterscheidbar, obwohl physisch ein blauer Arcade-Taster verwendet wird.
 
-Zusätzlich sollten im Programmcode die LED-Farben der Spieler angepasst werden, für Details siehe [Firmware/README.md](/firmware/README.md).
