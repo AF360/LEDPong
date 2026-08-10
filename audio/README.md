@@ -52,7 +52,24 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 | 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
 | 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
 
-## Verwendung der alternativen Farben
-Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen jeweils als Datei 011.mp3
-und 012.mp3 auf die Speicherkarte kopiert werden.
-Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden, für Details siehe [Firmware/README.md](/firmware/README.md).
+### Andere Tasten- und Spielerfarben verwenden
+
+Die Farbe der Arcade-Taster und die Spielerfarben der LEDs sind technisch unabhängig voneinander. Werden andere Tasterfarben als Rot und Grün verwendet, müssen daher zwei Dinge angepasst werden:
+
+1. Die gewünschten Spielerfarben im Sketch über `playerColor[]` einstellen, siehe dazu auch [Firmware/README.md](/firmware/README.md).
+2. Die passenden Sprachansagen aus `audio/alternative-Tastenfarben` auswählen und als `011.mp3` bzw. `012.mp3` auf die microSD-Karte kopieren.
+
+Beispiel für einen **gelben linken Taster** und einen **blauen rechten Taster**:
+
+```cpp
+byte playerColor[] = {64, 128};    // Gelb & Hellblau
+```
+
+Dazu:
+
+- `011-gelb.mp3` als `011.mp3` auf die Speicherkarte kopieren.
+- `012-blau.mp3` als `012.mp3` auf die Speicherkarte kopieren.
+
+Für den rechten Spieler wird im Beispiel bewusst der Farbwert `128` (Hellblau/Türkis) verwendet. Dadurch bleibt die Spielerfarbe deutlich von den blauen Rückschlagzonen mit dem Farbwert `160` unterscheidbar, obwohl physisch ein blauer Arcade-Taster verwendet wird.
+
+Zusätzlich sollten im Programmcode die LED-Farben der Spieler angepasst werden, für Details siehe [Firmware/README.md](/firmware/README.md).
