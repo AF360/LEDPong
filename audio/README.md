@@ -55,4 +55,4 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 ## Verwendung der alternativen Farben
 Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen jeweils als Datei 011.mp3
 und 012.mp3 auf die Speicherkarte kopiert werden.
-Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden, für Details siehe [Firmware/README.md](firmware/README.md).
+Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden, für Details siehe [Firmware/README.md](/firmware/README.md).
