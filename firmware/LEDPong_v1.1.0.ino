@@ -278,11 +278,15 @@ void setup() {
   clearDfPlayerInput();
   delay(150);
 
-  playTrackAndWait(0x01, 10, START_TRACK_TIMEOUT_MS);  // 010.mp3: greeting FIRST
+  playTrackAndWait(0x01, 10, START_TRACK_TIMEOUT_MS);  // 010.mp3: greeting 
   delay(150);
   clearDfPlayerInput();
 
-  playTrackAndWait(0x01, 11, START_TRACK_TIMEOUT_MS);  // 011.mp3: brightness/start instructions
+  playTrackAndWait(0x01, 11, START_TRACK_TIMEOUT_MS);  // 011.mp3: brightness instruction
+  delay(150);
+  clearDfPlayerInput();
+
+  playTrackAndWait(0x01, 12, START_TRACK_TIMEOUT_MS);  // 012.mp3: start instruction
   delay(150);
   clearDfPlayerInput();
 
