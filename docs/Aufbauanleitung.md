@@ -205,9 +205,13 @@ Viel Spaß beim Spielen!
 ## Das fertige LEDPong:
 
 ![LEDPong1](/images/ledpong-gesamtansicht.jpg)
+Gesamtansicht mit LED-Rainbow während des Startvorgangs
 
 ![LEDPong2](/images/ledpong-spieler-endzone.jpg)
+Rückschlagzone, Abdeckkappe, 5-fach Moduswahlschalter, USB-C für Spannungsversorgung, hier mit Powerbank im Einsatz
 
 ![LEDPong3](/images/ledpong-bedienelemente.jpg)
+Score-Anzeige, Lautstärkeregler, Lautsprecher Ein-/Ausschalter
 
 ![LEDPong4](/images/ledpong-usb-c-endkappe.jpg)
+Endkappe m. USB-C Serviceport zum Flaschen des Arduino, 30mm Arcade Button, LED-Strip-Abdeckkappe
