@@ -22,7 +22,7 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 024.mp3 | Training-Modus | "Du hast den Training-Modus ausgewählt" |
 
 
-## Alternative Tastenfarb-Dateien
+## Alternative Hinweisdateien für andere Tastenfarben
 | Datei | Verwendung | gesprochener Text |
 |---|---|---|
 | 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
