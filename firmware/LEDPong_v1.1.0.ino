@@ -155,7 +155,7 @@ int ballSpeedMax    =        7; 		    // max ball-speed  (1 is maximum, larger v
 int ballBoost0      =       20; 		    // superboost last position
 int ballBoost1      =       10; 		    // boost second last position
 int ballBoost2      =       5;  		    // boost third last position
-byte playerColor[]  =  {0, 96}; 		    // red & green
+byte playerColor[]  =  {0, 96}; 		    // red & green default colors. colors: 0=red, 64=yellow, 96=green, 128=cyan
 int winRounds       =        5; 		    // number of points for winning the game
 int endZoneSize     = (7L * NUM_LEDS + BASE_NUM_LEDS / 2) / BASE_NUM_LEDS; // set by applyModeSettings()
 int endZoneColor    =      160; 		    // color endzone
