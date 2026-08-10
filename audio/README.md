@@ -46,7 +46,7 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 | Datei | Verwendung | gesprochener Text |
 |---|---|---|
 | 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
-| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen" |
+| 011-gruen.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen" |
 | 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen" |
 | 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
 | 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
