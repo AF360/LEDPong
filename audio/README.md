@@ -21,6 +21,18 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 023.mp3 | Rallye-Modus | "Du hast den Rallye-Modus ausgewählt" |
 | 024.mp3 | Training-Modus | "Du hast den Training-Modus ausgewählt" |
 
+
+## Alternative Tastenfarb-Dateien
+| Datei | Verwendung | gesprochener Text |
+|---|---|---|
+| 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen |
+| 011-grün.mp3 | Bedienhinweis | "Helligkeit mit grüner Taste einstellen |
+| 011-blau.mp3 | Bedienhinweis | "Helligkeit mit blauer Taste einstellen |
+| 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
+| 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
+| 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
+
+
 ## Ordnerstruktur auf der microSD-Karte
 Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD-Karte des DFPlayerMini.
 
