@@ -56,7 +56,7 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 
 Die Farbe der Arcade-Taster und die Spielerfarben der LEDs sind technisch unabhängig voneinander. Werden andere Tasterfarben als Rot und Grün verwendet, müssen daher zwei Dinge angepasst werden:
 
-1. Die gewünschten Spielerfarben im Sketch über `playerColor[]` einstellen, siehe dazu auch [Firmware/README.md](/firmware/README.md).
+1. Die gewünschten LED-Spielerfarben im Sketch über `playerColor[]` einstellen, siehe dazu auch [Firmware/README.md](/firmware/README.md).
 2. Die passenden Sprachansagen aus `audio/alternative-Tastenfarben` auswählen und als `011.mp3` bzw. `012.mp3` auf die microSD-Karte kopieren.
 
 Beispiel für einen **gelben linken Taster** und einen **blauen rechten Taster**:
