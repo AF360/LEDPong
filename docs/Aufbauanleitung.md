@@ -214,4 +214,4 @@ Rückschlagzone, Abdeckkappe, 5-fach Moduswahlschalter, USB-C für Spannungsvers
 Score-Anzeige, Lautstärkeregler, Lautsprecher Ein-/Ausschalter
 
 ![LEDPong4](/images/ledpong-usb-c-endkappe.jpg)
-Endkappe m. USB-C Serviceport zum Flaschen des Arduino, 30mm Arcade Button, LED-Strip-Abdeckkappe
+Endkappe m. USB-C Serviceport zum flashen des Arduino, 30mm Arcade Button, LED-Strip-Abdeckkappe
