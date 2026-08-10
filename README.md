@@ -38,13 +38,15 @@ Zwei Spieler versuchen, den als leuchtende LED dargestellten Ball mit ihren Arca
 LEDPong wird unter der **GNU General Public License v3.0 oder später** veröffentlicht.
 Weitere Informationen zu den ursprünglichen Projekten und Mitwirkenden befinden sich in **[AUTHORS.md](AUTHORS.md)**.
 
-## Das fertige LEDPong, hier als weiße Version mit 144er Light-Strip.
+### Das fertige LEDPong, hier als weiße Version mit 144er Light-Strip:
 ![LEDPong1](/images/ledpong-gesamtansicht.jpg)
-Gesamtansicht
+Gesamtansicht, LED-Rainbow während des Systemstarts
 
 ![LEDPong2](/images/ledpong-spielperspektive.jpg)
+Spielperspektive mit Rückschlagzone, Ball in Bewegung und Score-Anzeige in der Mitte
 
 ![LEDPong3](/images/ledpong-bedienelemente.jpg)
+Score-Anzeige und Lautstärke-Regler sowie LS-Ein-/Ausschalter
 
 
 ![LEDPong-Logo](images/ledponglogo.png)
