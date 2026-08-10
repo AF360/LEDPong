@@ -31,6 +31,7 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 012-gelb.mp3 | Bedienhinweis | "Spiel mit gelber Taste starten" |
 | 012-blau.mp3 | Bedienhinweis | "Spiel mit blauer Taste starten" |
 | 012-rot.mp3 | Bedienhinweis | "Spiel mit roter Taste starten" |
+
 Um die alternativen Dateien zu verwenden, müssen die jeweils ausgewählten Kombinationen als Datei 011.mp3 und 012.mp3 auf die Speicherkarte kopiert werden.
 Zusätzlich sollten im Programmcode die Farben der Spieler angepasst werden.
 
