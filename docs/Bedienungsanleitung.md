@@ -56,4 +56,4 @@ Der Arduino wählt seine Rückschlagposition innerhalb der roten Rückschlagzone
 
 Die Lautstärke wird über das Potentiometer eingestellt. Mit dem Ein-/Ausschalter für den Lautsprecher kann die Tonausgabe vollständig stummgeschaltet werden.
 
-![LEDPong](/images/ledpong-spielerperspektive.jpg)
+![LEDPong](/images/ledpong-spielperspektive.jpg)
