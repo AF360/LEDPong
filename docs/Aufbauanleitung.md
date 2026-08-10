@@ -202,4 +202,6 @@ LEDPong ist nun einsatzbereit.
 
 Viel Spaß beim Spielen!
 
-![LEDPong](/images/ledpong-white-fertig.png)
+![LEDPong1](/images/ledpong-gesamtansicht.jpg)
+![LEDPong2](/images/ledpong-usb-c-endkappe.jpg)
+![LEDPong3](/images/ledpong-spieler-endzone.jpg)
