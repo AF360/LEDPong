@@ -5,6 +5,7 @@ Für den LEDPong-Sketch (LEDPong_v1.1.0.ino) müssen zusätzliche folgende Ardui
 - FastLED by Daniel Garcia (verwendet: Version 3.10.5)
 - DFRobotDFPlayerMini by DFRobot (verwendet: Version 1.0.6)
 
+
 ## Spielerfarben anpassen
 
 Standardmäßig verwendet LEDPong **Rot** für Spieler 1 und **Grün** für Spieler 2. Die Farben werden im Sketch über folgende Zeile festgelegt:
