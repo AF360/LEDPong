@@ -42,6 +42,7 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 ```
 
 ## Alternative Hinweisdateien für andere Tastenfarben
+
 | Datei | Verwendung | gesprochener Text |
 |---|---|---|
 | 011-gelb.mp3 | Bedienhinweis | "Helligkeit mit gelber Taste einstellen" |
