@@ -13,7 +13,8 @@ Die Audiodateien können bei Bedarf auch durch eigene Dateien ersetzt werden. Da
 | 004.mp3 | Aufschlag | |
 | 005.mp3 | Spiel gewonnen | |
 | 010.mp3 | Begrüßung | "Hallo. Willkommen zu Pong" |
-| 011.mp3 | Bedienhinweis | "Helligkeit mit roter Taste einstellen. Spiel mit grüner Taste starten" |
+| 011.mp3 | Bedienhinweis | "Helligkeit mit roter Taste einstellen |
+| 012.mp3 | Bedienhinweis | "Spiel mit grüner Taste starten" |
 | 020.mp3 | Modus Normal | "Du hast den Anfänger-Modus ausgewählt" |
 | 021.mp3 | Modus Pro | "Du hast den Profi-Modus ausgewählt" |
 | 022.mp3 | Modus Insane | "Du hast den Insane-Modus ausgewählt" |
@@ -32,6 +33,7 @@ Die Firmware erwartet dreistellig nummerierte Dateien im Ordner `01` der microSD
 ├── 005.mp3
 ├── 010.mp3
 ├── 011.mp3
+├── 012.mp3
 ├── 020.mp3
 ├── 021.mp3
 ├── 022.mp3
