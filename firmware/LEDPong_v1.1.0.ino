@@ -290,7 +290,7 @@ void setup() {
   delay(150);
   clearDfPlayerInput();
 
-  announceMode(selectedMode);             // 020..024 only after 011 has finished
+  announceMode(selectedMode);             // 020..024 only after 012 has finished
 }
 
 // *********************************
@@ -672,7 +672,7 @@ void InitializePlayers() {
       delay(TRAINING_AUTOMATIC_SERVE_DELAY_MS);       // Arduino serves automatically
     }
     else {
-      while (digitalRead(playerBtnPin[0]) == HIGH) {} // wait for red player's button
+      while (digitalRead(playerBtnPin[0]) == HIGH) {} // wait for player 0 button (default red button unless changed)
     }
     leds[0] = CHSV(endZoneColor, 255, brightness);    // restore EndZone display
     FastLED.show();
@@ -808,7 +808,7 @@ int chooseTrainingHitPosition() {
     return -1;
   }
 
-  return random(endZoneSize);                         // Arduino plays on the red/left side
+  return random(endZoneSize);                         // Arduino plays on the left side (default: red)
 }
 
 //---
