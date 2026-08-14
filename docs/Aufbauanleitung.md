@@ -3,7 +3,7 @@
 ## 1. Komponenten vorbereiten
 
 Alle benötigten Komponenten und Werkzeuge gemäß Stückliste bereitlegen und die benötigten 3D-Druckteile ausdrucken.
-![LEDPong-Einzelteile](/images/ledpong-einzelteile.png)
+![LEDPong-Einzelteile](/images/ledpong-einzelteile.jpg)
 
 ## 2. Arduino Nano vorbereiten
 
